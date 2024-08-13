@@ -1,6 +1,7 @@
 # FirmAnalysis
 
 A Python tool to generate optimal execution reports for trading strategies, including detailed Word documents and summary Excel files.
+https://blockhouse1.notion.site/Report-Generation-e36d8fb6fd9c4282be7c43c63206a24e?pvs=74
 
 ## Features
 
