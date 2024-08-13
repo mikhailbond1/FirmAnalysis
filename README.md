@@ -26,8 +26,8 @@ A Python tool to generate optimal execution reports for trading strategies, incl
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/optimal-execution-report.git
-    cd optimal-execution-report
+    git clone https://github.com/your-username/FirmAnalysis.git
+    cd FirmAnalysis
     ```
 
 2. **Run the scripts**:
